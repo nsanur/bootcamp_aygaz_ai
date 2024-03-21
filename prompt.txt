@@ -1,0 +1,55 @@
+Logo icin prompt:
+arka plani koyu gri rengi olan Portfolio / Galeri Web Sitesi icin minimal ve abstract bir logo tasarla 
+
+Resimler icin 
+promt1:
+ben bir ressamim ve abstract resimler yapiyorum. bu resimleri sitemde sergileyecegim. bunu icin bana birkac sketch ornegi ver
+
+prompt2:
+bu resimler essiz olsun ve herkesin gozlerini kamastirsin renkleri ozellikle kullan 
+
+prompt3:
+insan silueti olsun siyah beyaz 
+
+
+promt1:
+Bir ön web geliştiricisi olarak hareket etmenizi istiyorum. 
+Proje için şu araçları kullanarak yeni bir web sitesi kodlayacaksınız: 
+HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript. 
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir. 
+HTML, CSS ve Javascript kodlarini ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz. 
+Yazdığınız kodların hiçbirine açıklama yapmayın. 
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+prompt2:
+web sitesi bir porfolio galeri web sitesi ve burada cizdigim resimleri paylasmak istiyorum.
+Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+Sayfamın header bölümünde bir logo olmasını istiyorum ve aynı şekilde bu logodan bir adette footer bölümünde olmasini istiyorum. 
+Logonun sayfanin ust kisminda ve ortada yer almasini istiyorum. 
+Sayfanın içeriğinin galeri görünümünde, her bir ızgarada 4 adet olmak üzere 200x300 boyutlarında resimler yer almasını ve 
+burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Resimlerin üzerine gelindiginde bir geçiş efektine sahip olması güzel bir detay olur.
+Bana bu web sitesini oluşturmada yardımcı olur musun ?
+
+promt3:
+resimlerin isimlerinin başlıklarının arka planına siyah bir arka plan ekle ve yazı stil rengini beyaza cevir.
+Ayrıca logo boyutunu 300x300 boyutuna getir ve sol tarafa dayalı olarak düzenle.
+Ayrıca navigasyon bölümünü ust tarafa sirali dayalı hale getir misin?
+
+
+prompt4:
+Article içerisinde yer alan resimleri bir çerçeve içerisine alıp 2px kalınlığında çerçeve oluşturur musun? 
+Bunlara bağlı olarak aynı işlemi görselere ait bilgilerin bulundugu kısımlarıda dahil eder misin?
+
+prompt5:
+ben bir ressamim ve kendi sketchlerimi insanlarla paylasmak icin bu siteyi yapiyorum. insanlarin ilgisini cekmek istiyorum . 
+bu yuzden modern bir website yap ve ilgi cekici olsun. contact ve about me kismimlari olsun. bunlarin iceriklerini kendin yaz. 
+Sitenin ismi Milo olsun.
+
+promt6:
+toplam 8 resim olacak sekilde yan yana 3 resim birlikte gorunsun ve her resim icin farkli, ikonik isimler ver. 
+bu isimler resimlerin altinda yazisin. about me sayfanin en ustunde olsun contact kismi en altta ortada resimler olsun 
+ve contact kisminda intagram yazisi olsun bu yazi bizi kisinin instagramina yonlendirsin.
